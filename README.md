@@ -20,10 +20,3 @@ I build apps and occasionally open-source the interesting parts.
 
 Also contributed to **[RxSwift](https://github.com/ReactiveX/RxSwift)** and am part of the communities behind Moya, RxSwiftCommunity, ReSwift, SwifterSwift, MessageKit, and danger.
 
----
-
-### Tech Stack
-
-```
-Swift · UIKit · SwiftUI · Combine · RxSwift · Core Animation · CI/CD · Tuist
-```
