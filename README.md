@@ -1,7 +1,29 @@
-👋 Hi there! I'm an 📱 iOS Engineer working on Azar at @hyperconnect! 💻
+# Hey, I'm Cruz
 
-🗓️ Since starting my journey in app development, I've brought 20 apps to life, each one a new learning experience and a step forward. 🚀
+iOS & Swift engineer based in Seoul, building things people actually use.
 
-💡 I love the challenge of problem-solving and the creativity that comes with innovation. Each new project is a puzzle waiting to be solved, and I thrive on finding the best solution. 🧩🔍
+Currently working on **[Azar](https://azarlive.com)** at **[@hyperconnect](https://github.com/hyperconnect)** — connecting millions of people around the world through live video.
 
-🎯 My goal is not just to build apps, but to create experiences. I'm dedicated to making your digital interactions as enjoyable, meaningful, and seamless as possible. 🎉🏆
+I've shipped **30 apps** so far. Some hit the charts, some taught me hard lessons, all made me a better engineer.
+
+---
+
+### Open Source
+
+I build apps and occasionally open-source the interesting parts.
+
+- **[Pastel](https://github.com/cruisediary/Pastel)** — Gradient animation effects like Instagram *(3.5k+)*
+- **[Gradients](https://github.com/cruisediary/Gradients)** — A curated collection of 180+ splendid gradients *(800+)*
+- **[Comets](https://github.com/cruisediary/Comets)** — Animating particles for your app *(600+)*
+- **[HypeUI](https://github.com/cruisediary/HypeUI)** — SwiftUI-like syntax for UIKit
+- **[Passcode](https://github.com/cruisediary/Passcode)** — Simple and clean passcode UI *(250+)*
+
+Also contributed to **[RxSwift](https://github.com/ReactiveX/RxSwift)** and am part of the communities behind Moya, RxSwiftCommunity, ReSwift, SwifterSwift, MessageKit, and danger.
+
+---
+
+### Tech Stack
+
+```
+Swift · UIKit · SwiftUI · Combine · RxSwift · Core Animation · CI/CD · Tuist
+```
